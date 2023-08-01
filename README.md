@@ -114,12 +114,9 @@ This workshop is suitable for young people in Years 11 and 12. For this workshop
 
 <a href="https://arcade.makecode.com/S89378-31731-87848-50316" target="_blank">Demo</a>
 
-![702264](https://github.com/GERT-GraphicsExtendedRealityTeam/CS-Outreach-Kits/assets/140249922/75a9ade5-e15c-4481-bd80-2961845d5b11)
-
-
 <img align="left" width="40" height="40" src="https://github.com/GERT-GraphicsExtendedRealityTeam/CS-Outreach-Kits/assets/140249922/75a9ade5-e15c-4481-bd80-2961845d5b11">   
 
-<a href="https://arcade.makecode.com/S89378-31731-87848-50316" target="_blank">Demo</a>
+<a href="https://arcade.makecode.com/S89378-31731-87848-50316" target="_blank"> Playthrough</a>
 
 ### FeelMe Workshop: Using AI to Recognise Emotions with Teachable Machine and BBC micro: bit.
 
