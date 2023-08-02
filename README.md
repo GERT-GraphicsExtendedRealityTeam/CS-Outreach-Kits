@@ -116,7 +116,7 @@ This workshop is suitable for young people in Years 11 and 12. For this workshop
 
 <img align="left" width="40" height="40" src="https://github.com/GERT-GraphicsExtendedRealityTeam/CS-Outreach-Kits/assets/140249922/75a9ade5-e15c-4481-bd80-2961845d5b11">   
 
-<a href="https://www.youtube.com/watch?v=P0J8RwcYp0I&feature=youtu.be" target="_blank"> Playthrough</a>
+<a href="https://www.youtube.com/watch?v=P0J8RwcYp0I&feature=youtu.be" target="_blank"> Game Playthrough</a>
 
 ### FeelMe Workshop: Using AI to Recognise Emotions with Teachable Machine and BBC micro: bit.
 
